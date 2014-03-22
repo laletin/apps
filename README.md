@@ -1,5 +1,5 @@
 # Apps
 
-This is an application for [*App Reviews*]
+This is an application for [*App Reviews*](http://freelifeapps.com)
 
-by [Pavel Laletin]
+by [Pavel Laletin](http://freelifeapps.com)
